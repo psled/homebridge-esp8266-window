@@ -9,7 +9,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git://github.com/pawelsledzikowski/homebridge-esp8266-window.git"
+    "url": "git://github.com/psled/homebridge-esp8266-window.git"
   },
   "engines": {
     "node": ">=0.12.0",
